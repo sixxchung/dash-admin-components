@@ -1,4 +1,4 @@
-import dash_html_components as html
+from dash import html
 import dash_admin_components as dac
 
 social_cards_tab = dac.TabItem(id='content_social_cards', 

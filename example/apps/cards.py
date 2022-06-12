@@ -1,5 +1,5 @@
-import dash_html_components as html
-import dash_core_components as dcc
+from dash import html
+from dash import dcc
 import dash_admin_components as dac
 
 from example_plots import plot_pie, plot_surface, plot_scatter

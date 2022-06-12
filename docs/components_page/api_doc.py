@@ -1,4 +1,4 @@
-import dash_html_components as html
+from dash import html
 from dash.development._py_components_generation import (
     filter_props,
     js_to_py_type,
